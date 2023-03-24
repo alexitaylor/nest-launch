@@ -14741,9 +14741,7 @@ sprintf-js@~1.0.2:
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
 
 sqlite3@^5.0.0:
-  version "5.0.0"
-  resolved "https://artifacts.werally.in:443/artifactory/api/npm/npm/sqlite3/-/sqlite3-5.0.0.tgz#1bfef2151c6bc48a3ab1a6c126088bb8dd233566"
-  integrity sha1-G/7yFRxrxIo6sabBJgiLuN0jNWY=
+  version "5.1.5"
   dependencies:
     node-addon-api "2.0.0"
     node-pre-gyp "^0.11.0"
